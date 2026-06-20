@@ -1,6 +1,20 @@
 # 💫 About Me:
-Hi 👋 I'm Anand D<br>MCA (AI & Data Science) Student passionate about Artificial Intelligence, Machine Learning, and Software Development.<br><br>I enjoy building AI-powered applications, solving real-world problems, and continuously learning new technologies.<br><br>Currently focusing on:<br>• Python Development<br>• Machine Learning<br>• AI Applications<br>• Web Development<br>• Data Science<br><br>Looking for AI/ML and  Software Developer opportunities.
 
+Hi 👋 I'm Anand D<br>
+🎓 MCA (AI & Data Science) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.<br><br>
+
+💻 Skilled in Python, Java, C#, Web Development, and Database Management, with hands-on experience building AI-powered applications, intelligent chatbots, and full-stack web projects.<br><br>
+
+🚀 Passionate about solving real-world problems through technology and continuously enhancing my skills in AI, Machine Learning, Software Engineering, and Cloud Technologies.<br><br>
+
+🔍 Currently exploring:<br>
+• Artificial Intelligence & Machine Learning<br>
+• Data Science & Analytics<br>
+• Python Development<br>
+• Full-Stack Web Development<br>
+• Generative AI & NLP<br><br>
+
+📌 Open to Software Developer, AI/ML Engineer, Data Analyst, and Data Science opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-d-574768290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandrl120@gmail.com) 
