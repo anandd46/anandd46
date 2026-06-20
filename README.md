@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**anandd46/anandd46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on .# 💫 About Me:
+# 💫 About Me:
 Hi 👋 I'm Anand D<br>MCA (AI & Data Science) Student passionate about Artificial Intelligence, Machine Learning, and Software Development.<br><br>I enjoy building AI-powered applications, solving real-world problems, and continuously learning new technologies.<br><br>Currently focusing on:<br>• Python Development<br>• Machine Learning<br>• AI Applications<br>• Web Development<br>• Data Science<br><br>Looking for AI/ML and  Software Developer opportunities.
 
 
@@ -33,10 +24,4 @@ Hi 👋 I'm Anand D<br>MCA (AI & Data Science) Student passionate about Artifici
 ---
 [![](https://komarev.com/ghpvc/?username=anandd46&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
