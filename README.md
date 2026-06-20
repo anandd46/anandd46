@@ -2,7 +2,6 @@
 
 Hi 👋 I'm Anand D<br>
 🎓 MCA (AI & Data Science) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.<br><br>
-💻 Skilled in Python, Java, C#, Web Development, and Database Management, with hands-on experience building AI-powered applications, intelligent chatbots, and full-stack web projects.<br><br>
 🚀 Passionate about solving real-world problems through technology and continuously enhancing my skills in AI, Machine Learning, Software Engineering, and Cloud Technologies.<br><br>
 🔍 Currently exploring:<br>
 • Artificial Intelligence & Machine Learning<br>
