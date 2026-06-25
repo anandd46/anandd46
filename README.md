@@ -1,4 +1,4 @@
-# <p align="center">💙 Anand D</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A66C2,100:00BFFF&height=230&section=header&text=Anand%20D&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=58&descSize=20"/>
