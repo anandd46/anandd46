@@ -16,17 +16,18 @@
 
 # 🚀 About Me
 
-🎓 MCA (Artificial Intelligence & Data Science) Student
+🎓 MCA (AI & Data Science) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+🚀 Passionate about solving real-world problems through technology and continuously enhancing my skills in AI, Machine Learning, Software Engineering, and Cloud Technologies.
 
-🔭 Currently Learning
+🔍 Currently exploring:
+• Artificial Intelligence & Machine Learning
+• Data Science & Analytics
+• Python Development
+• Full-Stack Web Development
+• Generative AI & NLP
 
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Data Science
-* Full Stack Development
+📌 Open to Software Developer, AI/ML Engineer, Data Analyst, and Data Science opportunities.
 
 🌱 Strong interest in building intelligent systems that solve real-world problems.
 
