@@ -1,37 +1,261 @@
-# 💫 About Me:
+# <p align="center">💙 Anand D</p>
 
-Hi 👋 I'm Anand D<br>
-🎓 MCA (AI & Data Science) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.<br><br>
-🚀 Passionate about solving real-world problems through technology and continuously enhancing my skills in AI, Machine Learning, Software Engineering, and Cloud Technologies.<br><br>
-🔍 Currently exploring:<br>
-• Artificial Intelligence & Machine Learning<br>
-• Data Science & Analytics<br>
-• Python Development<br>
-• Full-Stack Web Development<br>
-• Generative AI & NLP<br><br>
-📌 Open to Software Developer, AI/ML Engineer, Data Analyst, and Data Science opportunities.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A66C2,100:00BFFF&height=230&section=header&text=Anand%20D&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=58&descSize=20"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-d-574768290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandrl120@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
+</p>
 
-# 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA-AI%20%26%20Data%20Science-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-7.04%2F10-0077FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Batch-2025--2027-00BFFF?style=for-the-badge"/>
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anandd46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anandd46&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anandd46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anandd46&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anandd46&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anandd46&style=for-the-badge&color=0A66C2"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anandd46&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 MCA (Artificial Intelligence & Data Science) Student
+
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
+
+🔭 Currently Learning
+
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Data Science
+* Full Stack Development
+
+🌱 Strong interest in building intelligent systems that solve real-world problems.
+
+📍 Mysuru, Karnataka, India
+
+---
+
+# 🔓 Open To
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Internships-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Roles-0077FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-Roles-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathons-Projects-0055AA?style=for-the-badge"/>
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,php"/>
+</p>
+
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Chatbot for Smart Communities
+
+Developed an AI-powered chatbot using Python, NLP, and Machine Learning to improve communication within educational institutions.
+
+### Key Features
+
+* Instant query response system
+* NLP-based interaction
+* Feedback-driven learning
+* Student support automation
+
+---
+
+## 💻 GuruCode AI – Smart Coding Mentor & Debugger
+
+An AI-powered coding assistant designed to help students learn programming concepts and debug code efficiently.
+
+### Features
+
+* Coding concept explanations
+* Debugging support
+* Real-time error detection
+* Multilingual assistance
+
+Tech Stack:
+HTML • CSS • JavaScript • AI Integration
+
+---
+
+## 💰 Web-Based Expense Tracker
+
+Built a web application for tracking and analyzing daily expenses.
+
+Features:
+
+* Expense management
+* Automated calculations
+* Database integration
+* User-friendly dashboard
+
+Tech Stack:
+C# • Database Systems
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Designed and developed a responsive portfolio website to showcase skills, certifications, and projects.
+
+Tech Stack:
+HTML • CSS • JavaScript
+
+---
+
+# 🏆 Achievements
+
+🏅 Participated in Smart India Hackathon 2024
+
+🏅 Developed AI & Machine Learning-based solutions in a collaborative team environment
+
+🏅 Built multiple AI and Full Stack Development projects
+
+---
+
+# 📜 Certifications
+
+### JPMorgan Chase & Co. (Forage)
+
+* Quantitative Research Job Simulation
+
+### MyCaptain
+
+* Full Stack Development
+
+### LetsUpgrade
+
+* Java Bootcamp
+
+### Infosys Springboard
+
+* Python Certification
+
+---
+
+# 🌎 Languages
+
+* English (Professional)
+* Kannada (Native)
+* Tamil (Professional)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anandd46&theme=algolia&no-frame=true&no-bg=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Data Science
+  - Full Stack Development
+
+building:
+  - AI Chatbots
+  - Smart Agricultural Solutions
+  - Web Applications
+  - AI-Powered Learning Systems
+
+open_to:
+  - AI/ML Internships
+  - Data Science Roles
+  - Software Development Roles
+  - Hackathons
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="mailto:anandrl120@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anandd46">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Transforming ideas into intelligent solutions through AI and technology."</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A66C2,100:000000&height=130&section=footer"/>
+</p>
