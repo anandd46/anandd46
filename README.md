@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;AI/ML+ENGINEER;generative AI+Engineer;Cloud+Engineer;Software+Development+Engineer(SDE);Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
 </p>
 
 <p align="center">
@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/CGPA-7.04%2F10-0077FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Batch-2025--2027-00BFFF?style=for-the-badge"/>
 </p>
-
-
 
 ---
 
