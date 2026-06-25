@@ -27,7 +27,13 @@ Hi 👋 I'm Anand D<br>
 
 ### ✍️ Personal Motto
 
-> **"Capabilities can be learned; passion and work ethic cannot. I bring the drive to learn fast and the commitment to deliver results."**
+<div align="center">
+
+### 💡 "Capabilities can be learned; passion and work ethic cannot."
+
+### 🚀 I bring the drive to learn fast and the commitment to deliver results.
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anandd46&limit=5&theme=dark&combine_all_yearly_contributions=true)
