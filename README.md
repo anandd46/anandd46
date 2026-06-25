@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/AI%2FML-Roles-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-Roles-0077FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Software%20Developer-Roles-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Engineer-0055AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-Roles-0055AA?style=for-the-badge"/>
 </p>
 
 ---
