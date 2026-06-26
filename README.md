@@ -248,7 +248,7 @@ open_to:
 ---
 
 <p align="center">
-<i>"Transforming ideas into intelligent solutions through AI and technology."</i>
+<i>"Capabilities can be learned; passion and work ethic cannot. I bring the drive to learn fast and the commitment to deliver results."</i>
 </p>
 
 <p align="center">
