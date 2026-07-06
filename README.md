@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&multiline=false&width=860&lines=🎓+MCA+(AI+%26+Data+Science)+Student;🤖+AI+%26+Machine+Learning+Engineer;✨+Generative+AI+%7C+LLMs+%7C+RAG+%7C+LangChain;☁️+Cloud+Engineer+(AWS+%7C+Docker+%7C+Kubernetes);🐍+Python+Developer+%7C+Full+Stack+Developer;🔬+Building+Real-World+AI+Solutions;🚀+Always+Learning.+Always+Growing." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;AI/ML+ENGINEER;Generative+AI+Engineer;Cloud+Engineer;Software+Development+Engineer(SDE);Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
+</p>
 </p>
 
 <br/>
