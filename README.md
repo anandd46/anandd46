@@ -350,16 +350,16 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   &nbsp;
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
+  <img width="46%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=anandd46&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B00&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
 </p>
+
 
 ### 🏅 GitHub Trophies
 <p align="center">
