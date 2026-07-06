@@ -420,10 +420,10 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 ### 🐍 Contribution Snake
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandd46/anandd46/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandd46/anandd46/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/anandd46/anandd46/output/github-snake.svg" />
+  </picture>
 </p>
 
 > ⚙️ **Note:** To activate the snake animation, create a GitHub Actions workflow that uses `Platane/snk` to generate the SVG into the `output` branch. It updates automatically every 24 hours.
