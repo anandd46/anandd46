@@ -358,7 +358,7 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-vercel.vercel.app/?user=anandd46&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B00&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B00&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 
