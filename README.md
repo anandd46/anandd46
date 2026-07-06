@@ -351,15 +351,10 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 
 ## 📊 GitHub Analytics
 
-<br />
-<h2 align="center">📊 GitHub Stats & Top Languages</h2>
 <p align="center">
-  <a href="https://github.com/anandd46">
-    <img src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&bg_color=050D2D&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&border_color=00BFFF&hide_border=false" alt="Anand's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anandd46">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&bg_color=050D2D&title_color=00BFFF&text_color=ffffff&border_color=00BFFF&hide_border=false" alt="Anand's Top Languages" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
