@@ -345,48 +345,7 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 
 ---
 
-## 🗺️ 2026 Roadmap
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    🎯 ANAND D — 2026 ROADMAP                         ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-  FOUNDATIONS
-  ───────────
-  ✅  Python Programming            [████████████████████]  MASTERED
-  ✅  Machine Learning              [████████████████████]  MASTERED
-  ✅  Data Analysis & Visualization [████████████████████]  MASTERED
-  ✅  Web Development               [████████████████████]  MASTERED
-  ✅  SQL & NoSQL Databases         [████████████████████]  MASTERED
-
-  AI / ML TRACK
-  ─────────────
-  🟢  Deep Learning                 [████████████████░░░░]  IN PROGRESS
-  🟢  LLMs & Transformers           [█████████████░░░░░░░]  IN PROGRESS
-  🟢  Generative AI                 [████████████░░░░░░░░]  IN PROGRESS
-  🟡  RAG Architectures             [████████░░░░░░░░░░░░]  LEARNING
-  🟡  LangChain & LLM Ops           [███████░░░░░░░░░░░░░]  LEARNING
-  🔵  Agentic AI Systems            [████░░░░░░░░░░░░░░░░]  PLANNED
-
-  CLOUD & DEVOPS TRACK
-  ────────────────────
-  🟢  AWS Core Services             [█████████████░░░░░░░]  IN PROGRESS
-  🟢  Docker & Containerization     [████████████░░░░░░░░]  IN PROGRESS
-  🟡  Kubernetes Orchestration      [████████░░░░░░░░░░░░]  LEARNING
-  🟡  MLOps & CI/CD Pipelines       [███████░░░░░░░░░░░░░]  LEARNING
-  🔵  AWS Certified Cloud Practitioner [███░░░░░░░░░░░░░░░]  PLANNED
-
-  ENGINEERING TRACK
-  ─────────────────
-  🟢  Data Structures & Algorithms  [████████████░░░░░░░░]  IN PROGRESS
-  🟡  System Design                 [███████░░░░░░░░░░░░░]  LEARNING
-  🔵  TensorFlow Developer Cert.    [███░░░░░░░░░░░░░░░░░]  PLANNED
-
-  LEGEND:  ✅ Mastered  🟢 In Progress  🟡 Learning  🔵 Planned
-```
-
-<br/>
 
 ---
 
