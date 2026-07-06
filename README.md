@@ -1,398 +1,572 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anand%20D&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20Engineer%20•%20Software%20Developer%20•%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Engineer;Cloud+Engineer;Python+Developer;Software+Engineer;Full+Stack+Developer;Building+Real-World+AI+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,60:003d6b,100:00d4ff&height=220&section=header&text=Anand%20D&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Cloud%20Engineer&descSize=18&descAlignY=60&descColor=00d4ff&animation=fadeIn" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TYPING ANIMATION                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=MCA+%28AI+%26+Data+Science%29+Student+%F0%9F%8E%93;AI+%26+Generative+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Cloud+Engineer+%7C+AWS+Practitioner+%E2%98%81%EF%B8%8F;Python+Developer+%7C+Backend+Engineer+%F0%9F%90%8D;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anandd46&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/anandd46?label=Followers&style=for-the-badge&color=00F5FF&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/anandd46?affiliations=OWNER&style=for-the-badge&color=00F5FF&logo=github" alt="Stars"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=00F5FF&label=Repositories&style=for-the-badge&query=public_repos&url=https://api.github.com/users/anandd46&logo=github" alt="Repos"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     VISITOR & STATS BADGES                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anand-d&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/anand-d?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/anand-d?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Stars"/>
+</p>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       OPEN TO WORK                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🟢 Open To Work
+### 🟢 Open to Opportunities
 
-<img src="https://img.shields.io/badge/AI%20Engineer-0F2027?style=for-the-badge&logo=openai&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/ML%20Engineer-0F2027?style=for-the-badge&logo=tensorflow&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Data%20Scientist-0F2027?style=for-the-badge&logo=databricks&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Software%20Engineer-0F2027?style=for-the-badge&logo=codeforces&logoColor=00F5FF" />
-<br/>
-<img src="https://img.shields.io/badge/Cloud%20Engineer-0F2027?style=for-the-badge&logo=amazonaws&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Python%20Developer-0F2027?style=for-the-badge&logo=python&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Backend%20Developer-0F2027?style=for-the-badge&logo=fastapi&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0F2027?style=for-the-badge&logo=react&logoColor=00F5FF" />
+<p>
+  <img src="https://img.shields.io/badge/AI%20Engineer-00d4ff?style=for-the-badge&logo=openai&logoColor=0d1117"/>
+  <img src="https://img.shields.io/badge/ML%20Engineer-0a2a4a?style=for-the-badge&logo=tensorflow&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-003d6b?style=for-the-badge&logo=databricks&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-00d4ff?style=for-the-badge&logo=github&logoColor=0d1117"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-0a2a4a?style=for-the-badge&logo=amazonwebservices&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/Python%20Developer-003d6b?style=for-the-badge&logo=python&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/Backend%20Developer-00d4ff?style=for-the-badge&logo=fastapi&logoColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0a2a4a?style=for-the-badge&logo=react&logoColor=00d4ff"/>
+</p>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/anandd46/anandd46/main/assets/coding.gif" onerror="this.style.display='none'"/>
+</div>
 
 ```python
 class AnandD:
     def __init__(self):
-        self.role = "MCA (AI & Data Science) Student"
-        self.location = "Mysuru, Karnataka, India"
-        self.focus = [
-            "Machine Learning", "Deep Learning",
-            "Generative AI", "LLMs", "RAG", "LangChain",
-            "MLOps", "AWS", "Docker", "Kubernetes"
-        ]
-        self.values = ["Problem Solving", "Open Source", "Continuous Learning"]
+        self.name         = "Anand D"
+        self.degree       = "MCA — AI & Data Science"
+        self.institution  = "Amrita School of Computing, Mysuru"
+        self.location     = "Mysuru, Karnataka, India 🇮🇳"
+        self.role         = ["AI Engineer", "ML Engineer", "Cloud Engineer", "Software Developer"]
 
-    def say_hi(self):
-        print("Building real-world AI solutions, one commit at a time 🚀")
+    @property
+    def current_focus(self):
+        return [
+            "🤖 Deep Learning & Neural Architectures",
+            "✨ Generative AI & LLMs (LangChain, RAG)",
+            "☁️  MLOps, AWS, Docker, Kubernetes",
+            "🔬 Explainable AI & Fairness in ML",
+            "🛰️  Satellite Data AI (Remote Sensing)",
+        ]
+
+    @property
+    def philosophy(self):
+        return "Build systems that solve real problems — fast, fair, and explainable."
 
 me = AnandD()
-me.say_hi()
+print(me.philosophy)
+# → "Build systems that solve real problems — fast, fair, and explainable."
 ```
-
-- 🎓 Pursuing **MCA in Artificial Intelligence & Data Science** at Amrita Vishwa Vidyapeetham, Mysuru
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**
-- ☁️ Exploring **Cloud Computing**, **MLOps**, and scalable production systems
-- 🔭 Currently diving deep into **Generative AI**, **LLMs**, and **RAG-based applications**
-- 🌱 Always learning — from classical ML algorithms to modern **Agentic AI** systems
-- 🌍 Based in **Mysuru, Karnataka, India**
-- 💬 Ask me about Python, ML pipelines, or cloud-native deployments
-- ⚡ Fun fact: I enjoy turning messy datasets into clean, explainable insights
-
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,js,php&theme=dark" />
-
-<br/><br/>
-
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react&theme=dark" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
-
-<br/><br/>
-
-**AI / Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge" />
-
-<br/><br/>
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux&theme=dark" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,figma&theme=dark" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+| 🎓 Education | 📍 Location | 💼 Status | 🌐 Open Source |
+|:---:|:---:|:---:|:---:|
+| MCA (AI & Data Science) | Mysuru, Karnataka 🇮🇳 | Available for Opportunities | Active Contributor |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+### ⚡ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,php&theme=dark" />
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,nextjs&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+</p>
+
+### 🤖 AI / ML Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-00d4ff?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git,terraform&theme=dark" />
+</p>
+
+### 🧰 Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma,jupyter&theme=dark" />
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
+</div>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Chatbot for Smart Communities
-An intelligent conversational assistant designed to support community engagement and information access.
+> **Intelligent conversational assistant for community management**
 
-**Tech:** Python, NLP, Machine Learning, Flask
-
-**Highlights:**
-- Context-aware conversational flow
-- Intent recognition and response generation
-- Deployed as an interactive web assistant
+- Natural Language Understanding with intent classification
+- Multi-turn dialogue with contextual memory
+- Real-time query resolution & automated responses
+- **Stack:** Python · LangChain · FastAPI · MongoDB · React
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 GuruCode AI
-An AI-powered coding assistant built to help learners understand and debug code faster.
+### 🎓 GuruCode AI
+> **AI-powered coding tutor & mentor platform**
 
-**Tech:** Python, LLMs, Prompt Engineering
-
-**Highlights:**
-- AI-assisted code explanations
-- Interactive learning experience
-- Streamlined developer workflow
+- Personalized learning paths with adaptive AI
+- Real-time code review & intelligent hints
+- Multi-language support with execution engine
+- **Stack:** Python · OpenAI API · Node.js · React · Firebase
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 House Price Prediction
-A regression-based ML system that predicts real estate prices using historical housing data.
+### 🏠 House Price Prediction Pipeline
+> **End-to-end ML regression pipeline with full explainability**
 
-**Tech:** Python, Scikit-Learn, Pandas, NumPy
-
-**Highlights:**
-- Feature engineering on real-world housing data
-- Multiple regression model comparison
-- Clean, explainable model evaluation
+- XGBoost · Random Forest · Linear Regression ensemble
+- SHAP explainability + LIME feature importance
+- Streamlit dashboard for interactive predictions
+- **Stack:** Python · XGBoost · SHAP · Streamlit · scikit-learn
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 Web Expense Tracker
-A full-stack web application for tracking, categorizing, and visualizing personal expenses.
+> **Smart full-stack personal finance manager**
 
-**Tech:** JavaScript, HTML, CSS, Node.js
-
-**Highlights:**
-- Real-time expense visualization
-- Category-based analytics
-- Responsive, user-friendly interface
+- Real-time analytics with dynamic charts
+- Category-wise breakdown & budget alerts
+- Secure auth with JWT & responsive PWA
+- **Stack:** Node.js · Express · MongoDB · React · Chart.js
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ AWS VPC Project
-A cloud networking project demonstrating secure, scalable infrastructure design on AWS.
+### ☁️ AWS VPC Infrastructure Project
+> **Production-grade cloud infrastructure with Terraform**
 
-**Tech:** AWS, VPC, Subnets, Security Groups
-
-**Highlights:**
-- Custom VPC architecture with public/private subnets
-- Secure network segmentation
-- Hands-on cloud infrastructure design
+- Custom VPC · Public & Private Subnets · NAT Gateway
+- EC2 Auto Scaling · S3 · IAM with least-privilege policies
+- SVG architecture diagrams + full documentation
+- **Stack:** Terraform · AWS · EC2 · S3 · IAM · VPC
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ CI/CD Pipeline using GitHub Actions
-A complete 16-stage CI/CD pipeline automating build, test, and deployment for a Flask application.
+### 🌾 AgriSat Intelligence (ISRO Hackathon)
+> **Satellite-powered AI crop monitoring & irrigation advisory**
 
-**Tech:** GitHub Actions, Docker, AWS, Flask
-
-**Highlights:**
-- 16-stage automated workflow
-- Dockerized deployment to AWS
-- End-to-end tested with full documentation
+- Sentinel-1 SAR + Sentinel-2 optical data fusion
+- Crop health indices (NDVI, NDWI, SAR backscatter)
+- AI-driven irrigation recommendation engine
+- **Stack:** Python · PyTorch · Rasterio · FastAPI · AWS
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="50%" valign="top">
 
-### 🌾 Smart Agriculture AI
-A precision agriculture system leveraging satellite imagery and deep learning for irrigation intelligence.
+### 🔄 CI/CD Pipeline — GitHub Actions
+> **Production-ready DevOps automation pipeline**
 
-**Tech:** Python, CNN, LSTM, XGBoost, Sentinel-1/2 Satellite Data
+- Multi-stage build · test · deploy workflows
+- Docker containerization with registry push
+- Automated quality gates & Slack notifications
+- **Stack:** GitHub Actions · Docker · AWS EC2 · Bash
 
-**Highlights:**
-- Multi-model pipeline (CNN + LSTM + XGBoost)
-- Satellite imagery-based crop and soil analysis
-- Built for the ISRO Bhartiya Antariksh Hackathon
+</td>
+<td width="50%" valign="top">
+
+### 📊 Explainable Loan Approval AI
+> **Fairness-aware credit scoring with full explainability**
+
+- SHAP + LIME for prediction transparency
+- Bias auditing across demographic groups
+- Streamlit dashboard with real-time inference
+- **Stack:** Python · XGBoost · SHAP · Fairlearn · Streamlit
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## 🏆 Achievements
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ACHIEVEMENTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| 🚀 Smart India Hackathon | 🤖 AI Projects | ☁️ Cloud Projects | 📖 Open Source Learning | 💡 Hackathons |
-|:---:|:---:|:---:|:---:|:---:|
-| Active Participant | 10+ Delivered | Hands-on AWS Deployments | Continuous Contribution | ISRO BAH & More |
+## 🏆 Achievements & Highlights
+
+<table>
+<tr>
+  <td align="center">🛰️</td>
+  <td><strong>ISRO Bharatiya Antariksh Hackathon 2025</strong> — Team Stellar Intelligence · AgriSat Intelligence project submission for national space AI challenge</td>
+</tr>
+<tr>
+  <td align="center">🤖</td>
+  <td><strong>End-to-End AI Projects</strong> — Built production-grade ML systems with explainability, fairness auditing, and real-world applicability</td>
+</tr>
+<tr>
+  <td align="center">☁️</td>
+  <td><strong>AWS Cloud Infrastructure</strong> — Designed and deployed enterprise-grade Terraform infrastructure targeting Cloud Architect roles</td>
+</tr>
+<tr>
+  <td align="center">🌾</td>
+  <td><strong>Satellite AI Research</strong> — Developed multi-modal satellite data fusion model combining SAR and optical imagery for precision agriculture</td>
+</tr>
+<tr>
+  <td align="center">📚</td>
+  <td><strong>Open Source Learning</strong> — Active contributor to the developer community with publicly documented ML & DevOps projects</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CERTIFICATIONS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 📜 Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-Forage-000000?style=for-the-badge&logo=jpmorganchase&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Infosys-Springboard-1E4E8C?style=for-the-badge&logo=infosys&logoColor=white" />
-<img src="https://img.shields.io/badge/MyCaptain-Certified-6A0DAD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LetsUpgrade-Certified-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/More%20Coming%20Soon-00F5FF?style=for-the-badge&logo=googlescholar&logoColor=black" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
-
-## 📚 Current Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-00F5FF?style=flat-square&logo=scikit-learn&logoColor=black" />
-<img src="https://img.shields.io/badge/Deep%20Learning-00F5FF?style=flat-square&logo=tensorflow&logoColor=black" />
-<img src="https://img.shields.io/badge/Generative%20AI-00F5FF?style=flat-square&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/LLMs-00F5FF?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-00F5FF?style=flat-square&logo=chainlink&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/AWS-00F5FF?style=flat-square&logo=amazonaws&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-00F5FF?style=flat-square&logo=docker&logoColor=black" />
-<img src="https://img.shields.io/badge/Kubernetes-00F5FF?style=flat-square&logo=kubernetes&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-00F5FF?style=flat-square&logo=githubactions&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/MLOps-00F5FF?style=flat-square&logo=mlflow&logoColor=black" />
-<img src="https://img.shields.io/badge/System%20Design-00F5FF?style=flat-square&logo=systemd&logoColor=black" />
-<img src="https://img.shields.io/badge/DSA-00F5FF?style=flat-square&logo=leetcode&logoColor=black" />
+<p>
+  <img src="https://img.shields.io/badge/JPMorgan_Chase_%26_Co-Forage-003d6b?style=for-the-badge&logo=jpmorgan&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/Infosys-Springboard-00d4ff?style=for-the-badge&logo=infosys&logoColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MyCaptain-Certified-0a2a4a?style=for-the-badge&logo=coursera&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/LetsUpgrade-Certified-003d6b?style=for-the-badge&logo=udemy&logoColor=00d4ff"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Developer-Planned-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Associate-Planned-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CURRENT LEARNING                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📚 Currently Mastering
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Deepening-00d4ff?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Active-0a2a4a?style=flat-square&logo=tensorflow&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Active-003d6b?style=flat-square&logo=openai&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/LLMs-Exploring-00d4ff?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-Building-0a2a4a?style=flat-square&logo=langchain&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-Building-003d6b?style=flat-square&logo=pinecone&logoColor=00d4ff"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-Practicing-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Containerizing-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestrating-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-Implementing-00d4ff?style=flat-square&logo=mlflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/System%20Design-Studying-0a2a4a?style=flat-square&logo=blueprint&logoColor=00d4ff"/>
+  <img src="https://img.shields.io/badge/DSA-Practicing-003d6b?style=flat-square&logo=leetcode&logoColor=00d4ff"/>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       2026 ROADMAP                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 🗺️ 2026 Roadmap
 
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Core Engineering**
+| Skill | Status |
+|:---|:---:|
+| Python (Advanced) | ✅ |
+| Machine Learning | ✅ |
+| Data Science Pipeline | ✅ |
+| Software Engineering | ✅ |
+| Deep Learning | 🟢 |
+| LLMs & Prompt Engineering | 🟢 |
+| Generative AI / RAG | 🟢 |
+
+</td>
+<td width="50%" valign="top">
+
+**Cloud & DevOps**
+| Skill | Status |
+|:---|:---:|
+| AWS Core Services | 🟢 |
+| Docker | 🟢 |
+| Terraform IaC | 🟢 |
+| CI/CD Pipelines | 🟢 |
+| Kubernetes | 🟡 |
+| MLOps (MLflow / Kubeflow) | 🟡 |
+| Agentic AI (AutoGen / CrewAI) | 🔵 |
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-| Skill | Status |
-|:--|:--:|
-| Python | ✅ |
-| Machine Learning | ✅ |
-| Deep Learning | 🟢 |
-| Cloud (AWS) | 🟢 |
-| Docker | 🟢 |
-| Kubernetes | 🟡 |
-| MLOps | 🟡 |
-| LLMs | 🟢 |
-| RAG | 🟡 |
-| Agentic AI | 🔵 |
-
-**Legend:** ✅ Mastered &nbsp; 🟢 Proficient &nbsp; 🟡 Learning &nbsp; 🔵 Planned
+✅ Completed &nbsp;|&nbsp; 🟢 In Progress &nbsp;|&nbsp; 🟡 Learning &nbsp;|&nbsp; 🔵 Planned
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB ANALYTICS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" width="42%"/>
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anand-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anandd46&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=anand-d&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-### 📈 Contribution Graph
+<img src="https://github-profile-trophy.vercel.app/?username=anand-d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff" width="90%"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-d&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=003d6b&hide_border=true&radius=8" width="95%" alt="Activity Graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ⚡ Live Widgets
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/anandd46/anandd46/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake — generates automatically once the snake GitHub Action workflow is enabled on this profile repo"/>
-
-### 🕒 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!-- Populated automatically by the "github-readme-activity" GitHub Action once enabled -->
-<!--END_SECTION:activity-->
-
-### 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
-
-### 📌 GitHub Metrics
-
-<img src="https://metrics.lecoq.io/anandd46?template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FKolkata" width="90%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
-
-## 🌐 Languages
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              DAILY UPDATING WIDGETS / SNAKE                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/English-Professional-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kannada-Native-00F5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tamil-Fluent-00F5FF?style=for-the-badge" />
+## 🐍 Contribution Snake
+
+<!-- 
+  To enable: add the following GitHub Actions workflow to your repo.
+  File: .github/workflows/snake.yml
+  
+  name: Generate Snake Animation
+  on:
+    schedule: [{cron: "0 */12 * * *"}]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: dist/github-snake.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<img src="https://raw.githubusercontent.com/anand-d/anand-d/output/github-snake.svg" alt="Contribution Snake" width="90%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=2&width=100%" width="100%"/>
-
-## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/anandd46">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00F5FF" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
+## 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="90%"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        LANGUAGES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🗣️ Languages
+
+<table>
+<tr>
+  <td align="center">🇮🇳</td>
+  <td><strong>Kannada</strong></td>
+  <td>Native</td>
+</tr>
+<tr>
+  <td align="center">🌐</td>
+  <td><strong>English</strong></td>
+  <td>Professional Proficiency</td>
+</tr>
+<tr>
+  <td align="center">🇮🇳</td>
+  <td><strong>Tamil</strong></td>
+  <td>Conversational</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 Connect With Me
 
 <br/>
 
+<a href="https://github.com/anand-d">
+  <img src="https://img.shields.io/badge/GitHub-anand--d-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a2a4a"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/anand-d">
+  <img src="https://img.shields.io/badge/LinkedIn-Anand%20D-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a2a4a"/>
+</a>
+&nbsp;
+<a href="mailto:anand@example.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a2a4a"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/anand-d">
+  <img src="https://img.shields.io/badge/LeetCode-anand--d-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0a2a4a"/>
+</a>
+&nbsp;
+<a href="https://hackerrank.com/anand-d">
+  <img src="https://img.shields.io/badge/HackerRank-anand--d-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00d4ff&labelColor=0a2a4a"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0a2a4a"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-> *"Capabilities can be learned; passion and work ethic cannot."*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer" width="100%"/>
+*"Capabilities can be learned; passion and work ethic cannot."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:003d6b,70:0a2a4a,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
