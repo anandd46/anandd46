@@ -6,251 +6,488 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;AI/ML+ENGINEER;Generative+AI+Engineer;Cloud+Engineer;Software+Development+Engineer(SDE);Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MCA-AI%20%26%20Data%20Science-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-7.04%2F10-0077FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Batch-2025--2027-00BFFF?style=for-the-badge"/>
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 MCA (AI & Data Science) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.
-
-🚀 Passionate about solving real-world problems through technology and continuously enhancing my skills in AI, Machine Learning, Software Engineering, and Cloud Technologies.
-
-🔍 Currently exploring:
-• Artificial Intelligence & Machine Learning
-• Data Science & Analytics
-• Python Development
-• Full-Stack Web Development
-• Generative AI & NLP
-
-📌 Open to Software Developer, AI/ML Engineer, Data Analyst, and Data Science opportunities.
-
-🌱 Strong interest in building intelligent systems that solve real-world problems.
-
-📍 Mysuru, Karnataka, India
-
----
-
-# 🔓 Open To
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Roles-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Roles-0077FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Developer-Roles-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Engineer-Roles-0055AA?style=for-the-badge"/>
+  <a href="https://github.com/anandd46">
+    <img src="https://img.shields.io/github/followers/anandd46?label=Followers&style=for-the-badge&color=00BFFF&labelColor=0A1E6E&logo=github" alt="GitHub Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=anandd46&label=Profile+Views&color=00BFFF&style=for-the-badge&labelColor=0A1E6E" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/anandd46?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Explore-00BFFF?style=for-the-badge&labelColor=0A1E6E&logo=github" alt="Repositories"/>
+  </a>
 </p>
+
+<br/>
 
 ---
 
-# ⚡ Tech Stack
-
-### Programming Languages
+<h2 align="center">🟢 OPEN TO WORK</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,php"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-Open-00BFFF?style=for-the-badge&logo=openai&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ML%20Engineer-Open-00BFFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Scientist-Open-00BFFF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Software%20Engineer-Open-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=050D2D"/>
 </p>
-
-### Web Development
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-Open-00BFFF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python%20Developer-Open-00BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Backend%20Developer-Open-00BFFF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Open-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=050D2D"/>
 </p>
 
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-</p>
-
-### AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
+<br/>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 AI Chatbot for Smart Communities
-
-Developed an AI-powered chatbot using Python, NLP, and Machine Learning to improve communication within educational institutions.
-
-### Key Features
-
-* Instant query response system
-* NLP-based interaction
-* Feedback-driven learning
-* Student support automation
-
----
-
-## 💻 GuruCode AI – Smart Coding Mentor & Debugger
-
-An AI-powered coding assistant designed to help students learn programming concepts and debug code efficiently.
-
-### Features
-
-* Coding concept explanations
-* Debugging support
-* Real-time error detection
-* Multilingual assistance
-
-Tech Stack:
-HTML • CSS • JavaScript • AI Integration
-
----
-
-## 💰 Web-Based Expense Tracker
-
-Built a web application for tracking and analyzing daily expenses.
-
-Features:
-
-* Expense management
-* Automated calculations
-* Database integration
-* User-friendly dashboard
-
-Tech Stack:
-C# • Database Systems
-
----
-
-## 🌐 Personal Portfolio Website
-
-Designed and developed a responsive portfolio website to showcase skills, certifications, and projects.
-
-Tech Stack:
-HTML • CSS • JavaScript
-
----
-
-# 🏆 Achievements
-
-🏅 Participated in Smart India Hackathon 2024
-
-🏅 Developed AI & Machine Learning-based solutions in a collaborative team environment
-
-🏅 Built multiple AI and Full Stack Development projects
-
----
-
-# 📜 Certifications
-
-### JPMorgan Chase & Co. (Forage)
-
-* Quantitative Research Job Simulation
-
-### MyCaptain
-
-* Full Stack Development
-
-### LetsUpgrade
-
-* Java Bootcamp
-
-### Infosys Springboard
-
-* Python Certification
-
----
-
-# 🌎 Languages
-
-* English (Professional)
-* Kannada (Native)
-* Tamil (Professional)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anandd46&theme=algolia&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Current Focus
+## 🧑‍💻 About Me
 
 ```yaml
-learning:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Data Science
-  - Full Stack Development
+Name        : Anand D
+Degree      : MCA — AI & Data Science
+Batch       : 2025 – 2027
+Location    : Mysuru, Karnataka, India  📍
 
-building:
-  - AI Chatbots
-  - Smart Agricultural Solutions
-  - Web Applications
-  - AI-Powered Learning Systems
+Passions    : Artificial Intelligence · Machine Learning · Generative AI
+              Software Engineering · Cloud Computing · Open Source
 
-open_to:
-  - AI/ML Internships
-  - Data Science Roles
-  - Software Development Roles
-  - Hackathons
+Currently   : Deep Learning · LLMs · RAG · LangChain
+  Exploring   Agentic AI · MLOps · AWS · Docker · Kubernetes
+
+Mindset     : Curious · Continuous Learner · Problem Solver · Collaborative
+Goal        : Build intelligent systems that solve real-world challenges
 ```
 
----
+> *"Capabilities can be learned; passion and work ethic cannot. I bring the drive to learn fast and the commitment to deliver results."*
 
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="mailto:anandrl120@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anandd46">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<br/>
 
 ---
 
+## ⚡ Tech Stack
+
+### 🐍 Programming Languages
 <p align="center">
-<i>"Capabilities can be learned; passion and work ethic cannot. I bring the drive to learn fast and the commitment to deliver results."</i>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,php&theme=dark&perline=6" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react&theme=dark&perline=6" alt="Web Dev"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=6" alt="Databases"/>
+</p>
+
+### 🤖 AI / ML Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=6" alt="AI ML"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux&theme=dark&perline=6" alt="Cloud DevOps"/>
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma,jupyter&theme=dark&perline=6" alt="Tools"/>
+</p>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Chatbot for Smart Communities
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00BFFF?style=flat-square)
+![ML](https://img.shields.io/badge/ML-0A66C2?style=flat-square)
+
+An intelligent chatbot system built for educational institutions to automate student support, resolve queries instantly, and improve internal communication.
+
+**Highlights:**
+- 🧠 NLP-driven conversation engine
+- ⚡ Real-time query resolution
+- 📊 Feedback-loop learning system
+- 🎓 Student support automation
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 GuruCode AI — Smart Coding Mentor
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI%20Integration-00BFFF?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+An AI-powered coding assistant that helps students understand programming concepts, debug errors, and get real-time explanations across multiple languages.
+
+**Highlights:**
+- 🔍 Smart error detection & fix suggestions
+- 📖 Concept explanations on demand
+- 🌍 Multilingual programming support
+- 🚀 Real-time debugging assistance
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+An ML regression model for predicting house prices based on key features using advanced feature engineering and model optimization techniques.
+
+**Highlights:**
+- 📈 Advanced regression modeling
+- 🔧 Feature engineering pipeline
+- 📉 RMSE-optimized performance
+- 📊 Visual data analysis & EDA
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Web Expense Tracker
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+A full-featured web application for managing and analyzing daily expenses with automated calculations, visual reports, and a clean dashboard.
+
+**Highlights:**
+- 📊 Visual expense analytics
+- 🗄️ Secure DB integration
+- 🧮 Automated calculations
+- 🖥️ User-friendly dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ AWS VPC Architecture Project
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=orange)
+![Networking](https://img.shields.io/badge/Networking-00BFFF?style=flat-square)
+
+Designed and deployed a production-ready Virtual Private Cloud (VPC) on AWS with multi-tier security, subnets, NAT gateways, and routing configurations.
+
+**Highlights:**
+- 🔒 Multi-layer security groups
+- 🌐 Public & private subnet design
+- 🔁 NAT Gateway & routing tables
+- 📐 Production-ready architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Pipeline — GitHub Actions
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Automated end-to-end CI/CD pipeline using GitHub Actions with Docker containerization, automated testing, and deployment workflows.
+
+**Highlights:**
+- ⚙️ Automated build & test pipeline
+- 🐳 Docker containerized deployments
+- 🚦 Branch-based workflow triggers
+- 📦 Artifact management
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🌾 Smart Agriculture AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20Integration-00BFFF?style=flat-square)
+
+An AI-powered precision agriculture system providing crop health monitoring, yield prediction, and smart irrigation recommendations using ML models and sensor data.
+
+**Highlights:** 🌱 Crop disease detection · 📡 IoT sensor integration · 📈 Yield prediction model · 💧 Smart irrigation optimization
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<table align="center" width="90%">
+<tr>
+  <td align="center" width="20%">🏅</td>
+  <td><b>Smart India Hackathon 2024</b> — Represented team in one of India's largest hackathon platforms, delivering an AI-powered solution to a real government problem statement.</td>
+</tr>
+<tr>
+  <td align="center">🤖</td>
+  <td><b>AI Project Portfolio</b> — Built and deployed multiple production-grade AI & ML projects including chatbots, prediction models, and generative AI applications.</td>
+</tr>
+<tr>
+  <td align="center">☁️</td>
+  <td><b>Cloud Engineering</b> — Architected and deployed AWS VPC infrastructure and CI/CD pipelines demonstrating hands-on cloud engineering skills.</td>
+</tr>
+<tr>
+  <td align="center">🌐</td>
+  <td><b>Full Stack Development</b> — Developed end-to-end web applications integrating AI backends with responsive frontends.</td>
+</tr>
+<tr>
+  <td align="center">📖</td>
+  <td><b>Open Source & Continuous Learning</b> — Actively contributes to knowledge-sharing, open-source repositories, and developer communities.</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+<table align="center" width="90%">
+<tr>
+  <th align="left">🏢 Issuer</th>
+  <th align="left">📄 Certification</th>
+  <th align="left">🗂️ Domain</th>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-Forage-003087?style=flat-square&logo=jpmorgan&logoColor=white" alt="JPMorgan"/></td>
+  <td>Quantitative Research Job Simulation</td>
+  <td>Finance · Quant Analytics</td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Infosys-Springboard-007CC3?style=flat-square&logo=infosys&logoColor=white" alt="Infosys"/></td>
+  <td>Python Programming Certification</td>
+  <td>Programming · Python</td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/MyCaptain-EdTech-FF6B35?style=flat-square&logoColor=white" alt="MyCaptain"/></td>
+  <td>Full Stack Development</td>
+  <td>Web Development</td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/LetsUpgrade-Platform-4A90D9?style=flat-square&logoColor=white" alt="LetsUpgrade"/></td>
+  <td>Java Bootcamp</td>
+  <td>Programming · Java</td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/AWS-Upcoming-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></td>
+  <td>AWS Certified Cloud Practitioner <i>(In Progress)</i></td>
+  <td>Cloud · AWS</td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/TensorFlow-Upcoming-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TF"/></td>
+  <td>TensorFlow Developer Certificate <i>(Planned)</i></td>
+  <td>AI / ML</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🎯 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-00BFFF?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Active-00BFFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Active-00BFFF?style=for-the-badge&logo=openai&logoColor=white&labelColor=050D2D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Active-00BFFF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/LangChain-Active-00BFFF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/RAG-Active-00BFFF?style=for-the-badge&logoColor=white&labelColor=050D2D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=050D2D"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLOps-Learning-0A1E6E?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/System%20Design-Learning-0A1E6E?style=for-the-badge&logo=diagram&logoColor=white&labelColor=050D2D"/>
+  <img src="https://img.shields.io/badge/DSA-Practicing-0A1E6E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050D2D"/>
+</p>
+
+<br/>
+
+---
+
+## 🗺️ 2026 Roadmap
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🎯 ANAND D — 2026 ROADMAP                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  FOUNDATIONS
+  ───────────
+  ✅  Python Programming            [████████████████████]  MASTERED
+  ✅  Machine Learning              [████████████████████]  MASTERED
+  ✅  Data Analysis & Visualization [████████████████████]  MASTERED
+  ✅  Web Development               [████████████████████]  MASTERED
+  ✅  SQL & NoSQL Databases         [████████████████████]  MASTERED
+
+  AI / ML TRACK
+  ─────────────
+  🟢  Deep Learning                 [████████████████░░░░]  IN PROGRESS
+  🟢  LLMs & Transformers           [█████████████░░░░░░░]  IN PROGRESS
+  🟢  Generative AI                 [████████████░░░░░░░░]  IN PROGRESS
+  🟡  RAG Architectures             [████████░░░░░░░░░░░░]  LEARNING
+  🟡  LangChain & LLM Ops           [███████░░░░░░░░░░░░░]  LEARNING
+  🔵  Agentic AI Systems            [████░░░░░░░░░░░░░░░░]  PLANNED
+
+  CLOUD & DEVOPS TRACK
+  ────────────────────
+  🟢  AWS Core Services             [█████████████░░░░░░░]  IN PROGRESS
+  🟢  Docker & Containerization     [████████████░░░░░░░░]  IN PROGRESS
+  🟡  Kubernetes Orchestration      [████████░░░░░░░░░░░░]  LEARNING
+  🟡  MLOps & CI/CD Pipelines       [███████░░░░░░░░░░░░░]  LEARNING
+  🔵  AWS Certified Cloud Practitioner [███░░░░░░░░░░░░░░░]  PLANNED
+
+  ENGINEERING TRACK
+  ─────────────────
+  🟢  Data Structures & Algorithms  [████████████░░░░░░░░]  IN PROGRESS
+  🟡  System Design                 [███████░░░░░░░░░░░░░]  LEARNING
+  🔵  TensorFlow Developer Cert.    [███░░░░░░░░░░░░░░░░░]  PLANNED
+
+  LEGEND:  ✅ Mastered  🟢 In Progress  🟡 Learning  🔵 Planned
+```
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A66C2,100:000000&height=130&section=footer"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B00&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+### 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anandd46&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=0A66C2&point=ffffff&area=true&area_color=00BFFF" alt="Contribution Graph"/>
+</p>
+
+<br/>
+
+---
+
+## 📡 Daily Updating Widgets
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandd46/anandd46/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandd46/anandd46/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/anandd46/anandd46/output/github-snake.svg" />
+  </picture>
+</p>
+
+> ⚙️ **Note:** To activate the snake animation, create a GitHub Actions workflow that uses `Platane/snk` to generate the SVG into the `output` branch. It updates automatically every 24 hours.
+
+### 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Capabilities+can+be+learned%3B+passion+and+work+ethic+cannot.+I+bring+the+drive+to+learn+fast+and+the+commitment+to+deliver+results.&author=Anand+D" alt="Dev Quote"/>
+</p>
+
+<br/>
+
+---
+
+## 🌎 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Professional%20Proficiency-00BFFF?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kannada-Native%20Speaker-00BFFF?style=for-the-badge&logoColor=white&labelColor=050D2D"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tamil-Professional%20Proficiency-00BFFF?style=for-the-badge&logoColor=white&labelColor=050D2D"/>
+</p>
+
+<br/>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/anandd46" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-anandd46-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anand-d-574768290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anand%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003C8F" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:anandrl120@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-anandrl120-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B22222" alt="Gmail"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/anand_d2/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-anand__d2-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=E68600" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/anandrl120" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-anandrl120-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A8A46" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="https://anandd46.github.io/Anand_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00BFFF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0A1E6E" alt="Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <i>✨ If you found my profile interesting, consider giving a ⭐ to my repositories!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,40:0A66C2,70:0A1E6E,100:000000&height=140&section=footer&text=Let's%20Build%20The%20Future%20Together&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer"/>
 </p>
