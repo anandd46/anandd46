@@ -1,256 +1,108 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A66C2,100:00BFFF&height=230&section=header&text=Anand%20D&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=58&descSize=20"/>
-</p>
+# 👋 Hi, I'm Anand D
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=MCA+(AI+%26+Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;AI/ML+ENGINEER;Generative+AI+Engineer;Cloud+Engineer;Software+Development+Engineer(SDE);Full+Stack+Web+Developer;Python+Developer;Building+Real-World+AI+Solutions"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MCA-AI%20%26%20Data%20Science-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-7.04%2F10-0077FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Batch-2025--2027-00BFFF?style=for-the-badge"/>
-</p>
-
----
+> **MCA (AI & Data Science) Student | AI/ML Engineer | Cloud Enthusiast | Software Developer**
 
 # 🚀 About Me
 
-🎓 MCA (AI & Data Science) Student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.
-
-🚀 Passionate about solving real-world problems through technology and continuously enhancing my skills in AI, Machine Learning, Software Engineering, and Cloud Technologies.
-
-🔍 Currently exploring:
-• Artificial Intelligence & Machine Learning
-• Data Science & Analytics
-• Python Development
-• Full-Stack Web Development
-• Generative AI & NLP
-
-📌 Open to Software Developer, AI/ML Engineer, Data Analyst, and Data Science opportunities.
-
-🌱 Strong interest in building intelligent systems that solve real-world problems.
-
-📍 Mysuru, Karnataka, India
+- 🎓 MCA (AI & Data Science) (2025–2027)
+- 💻 Interested in AI, Machine Learning, Data Science, Cloud Computing and Software Engineering
+- 🌱 Currently learning Deep Learning, Generative AI, AWS, Docker, Kubernetes and MLOps
+- 📍 Mysuru, Karnataka, India
+- 🤝 Open to AI/ML, Software Development, Data Science and Cloud opportunities
 
 ---
 
-# 🔓 Open To
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Roles-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Roles-0077FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Developer-Roles-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Engineer-Roles-0055AA?style=for-the-badge"/>
-</p>
+## Languages
+Python • Java • C • C# • JavaScript • PHP
 
----
+## Web
+HTML • CSS • JavaScript • Node.js
 
-# ⚡ Tech Stack
+## Databases
+MySQL • MongoDB • Firebase
 
-### Programming Languages
+## AI / ML
+TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • OpenCV
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,php"/>
-</p>
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-</p>
-
-### AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
+## Cloud & DevOps
+AWS • Docker • Kubernetes • GitHub Actions • Git • Linux
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🤖 AI Chatbot for Smart Communities
+- NLP based chatbot
+- Student support automation
+- Python + Machine Learning
 
-Developed an AI-powered chatbot using Python, NLP, and Machine Learning to improve communication within educational institutions.
+## 💻 GuruCode AI
+AI coding mentor with debugging support.
 
-### Key Features
+## 🏠 House Price Prediction
+Regression models including Linear Regression, Random Forest and XGBoost.
 
-* Instant query response system
-* NLP-based interaction
-* Feedback-driven learning
-* Student support automation
+## ☁️ AWS VPC Project
+Cloud networking project demonstrating AWS VPC architecture.
 
----
-
-## 💻 GuruCode AI – Smart Coding Mentor & Debugger
-
-An AI-powered coding assistant designed to help students learn programming concepts and debug code efficiently.
-
-### Features
-
-* Coding concept explanations
-* Debugging support
-* Real-time error detection
-* Multilingual assistance
-
-Tech Stack:
-HTML • CSS • JavaScript • AI Integration
+## ⚙️ GitHub Actions CI/CD Pipeline
+Automated testing and deployment workflow.
 
 ---
 
-## 💰 Web-Based Expense Tracker
+# 🏆 Certifications
 
-Built a web application for tracking and analyzing daily expenses.
-
-Features:
-
-* Expense management
-* Automated calculations
-* Database integration
-* User-friendly dashboard
-
-Tech Stack:
-C# • Database Systems
+- JPMorgan Chase & Co. Forage
+- Infosys Springboard
+- MyCaptain Full Stack Development
+- LetsUpgrade Java Bootcamp
 
 ---
 
-## 🌐 Personal Portfolio Website
+# 📚 Currently Learning
 
-Designed and developed a responsive portfolio website to showcase skills, certifications, and projects.
-
-Tech Stack:
-HTML • CSS • JavaScript
-
----
-
-# 🏆 Achievements
-
-🏅 Participated in Smart India Hackathon 2024
-
-🏅 Developed AI & Machine Learning-based solutions in a collaborative team environment
-
-🏅 Built multiple AI and Full Stack Development projects
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AWS
+- Docker
+- Kubernetes
+- MLOps
+- LangChain
 
 ---
 
-# 📜 Certifications
+# 📊 GitHub Stats
 
-### JPMorgan Chase & Co. (Forage)
+Replace `anandd46` if your username changes.
 
-* Quantitative Research Job Simulation
-
-### MyCaptain
-
-* Full Stack Development
-
-### LetsUpgrade
-
-* Java Bootcamp
-
-### Infosys Springboard
-
-* Python Certification
-
----
-
-# 🌎 Languages
-
-* English (Professional)
-* Kannada (Native)
-* Tamil (Professional)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anandd46&theme=algolia&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-learning:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Data Science
-  - Full Stack Development
-
-building:
-  - AI Chatbots
-  - Smart Agricultural Solutions
-  - Web Applications
-  - AI-Powered Learning Systems
-
-open_to:
-  - AI/ML Internships
-  - Data Science Roles
-  - Software Development Roles
-  - Hackathons
+```md
+![Stats](https://github-readme-stats.vercel.app/api?username=anandd46&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandd46&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandd46&theme=tokyonight)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night)
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 🐍 Contribution Snake
 
-<p align="center">
-<a href="mailto:anandrl120@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Add after enabling GitHub Actions.
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anandd46">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+```md
+![Snake](https://raw.githubusercontent.com/anandd46/anandd46/output/github-contribution-grid-snake.svg)
+```
 
 ---
 
-<p align="center">
-<i>"Capabilities can be learned; passion and work ethic cannot. I bring the drive to learn fast and the commitment to deliver results."</i>
-</p>
+# 📫 Connect
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0A66C2,100:000000&height=130&section=footer"/>
-</p>
+- GitHub: https://github.com/anandd46
+- LinkedIn: Add your profile URL
+- Email: anandrl120@gmail.com
+
+---
+
+> *"Capabilities can be learned; passion and work ethic cannot."*
