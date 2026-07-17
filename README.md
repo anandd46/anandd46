@@ -292,7 +292,7 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 
 <tr>
   <td><img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></td>
-  <td>SQL Certification</td>
+  <td>SQL,Problem Solving,Software Engineering Certification</td>
   <td>SQL · Algorithms · Data Structures · Debugging · Version Control · Database Management</td>
 </tr>
 
