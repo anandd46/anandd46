@@ -145,7 +145,7 @@ An intelligent chatbot system built for educational institutions to automate stu
 </td>
 <td width="50%" valign="top">
 
-### 💡 GuruCode AI — Smart Coding Mentor
+### 💡 CodeSage AI — Smart Coding Mentor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![AI](https://img.shields.io/badge/AI%20Integration-00BFFF?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -277,41 +277,55 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
 ## 📜 Certifications
 
 <table align="center" width="90%">
+
 <tr>
   <th align="left">🏢 Issuer</th>
   <th align="left">📄 Certification</th>
-  <th align="left">🗂️ Domain</th>
+  <th align="left">🗂️ Skills / Domain</th>
 </tr>
+
+<tr>
+  <td><img src="https://img.shields.io/badge/Kaggle-Learn-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></td>
+  <td>Python Programming</td>
+  <td>Python · Data Structures · Functions · Loops · File Handling</td>
+</tr>
+
+<tr>
+  <td><img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></td>
+  <td>SQL Certification</td>
+  <td>SQL · Algorithms · Data Structures · Debugging · Version Control · Database Management</td>
+</tr>
+
+<tr>
+  <td><img src="https://img.shields.io/badge/AWS-Skill%20Builder-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></td>
+  <td>AWS Cloud Practitioner Essentials</td>
+  <td>Cloud Computing · AWS Core Services · Security · Pricing · Architecture</td>
+</tr>
+
+<tr>
+  <td><img src="https://img.shields.io/badge/AlgoUniversity-Dynamic%20Programming-6A5ACD?style=flat-square&logoColor=white" alt="AlgoUniversity"/></td>
+  <td>Dynamic Programming Camp</td>
+  <td>Dynamic Programming · Matrix Exponentiation · SQRT Decomposition</td>
+</tr>
+
 <tr>
   <td><img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-Forage-003087?style=flat-square&logo=jpmorgan&logoColor=white" alt="JPMorgan"/></td>
   <td>Quantitative Research Job Simulation</td>
-  <td>Finance · Quant Analytics</td>
+  <td>Data Analysis · Quantitative Research</td>
 </tr>
+
 <tr>
-  <td><img src="https://img.shields.io/badge/Infosys-Springboard-007CC3?style=flat-square&logo=infosys&logoColor=white" alt="Infosys"/></td>
-  <td>Python Programming Certification</td>
-  <td>Programming · Python</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/MyCaptain-EdTech-FF6B35?style=flat-square&logoColor=white" alt="MyCaptain"/></td>
+  <td><img src="https://img.shields.io/badge/MyCaptain-Full%20Stack-FF6B35?style=flat-square&logoColor=white" alt="MyCaptain"/></td>
   <td>Full Stack Development</td>
-  <td>Web Development</td>
+  <td>Frontend Development · React Native · Firebase · MongoDB</td>
 </tr>
+
 <tr>
-  <td><img src="https://img.shields.io/badge/LetsUpgrade-Platform-4A90D9?style=flat-square&logoColor=white" alt="LetsUpgrade"/></td>
+  <td><img src="https://img.shields.io/badge/LetsUpgrade-Java%20Bootcamp-4A90D9?style=flat-square&logo=openjdk&logoColor=white" alt="LetsUpgrade"/></td>
   <td>Java Bootcamp</td>
-  <td>Programming · Java</td>
+  <td>Object-Oriented Programming · Problem Solving</td>
 </tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/AWS-Upcoming-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></td>
-  <td>AWS Certified Cloud Practitioner <i>(In Progress)</i></td>
-  <td>Cloud · AWS</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/TensorFlow-Upcoming-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TF"/></td>
-  <td>TensorFlow Developer Certificate <i>(Planned)</i></td>
-  <td>AI / ML</td>
-</tr>
+
 </table>
 
 <br/>
