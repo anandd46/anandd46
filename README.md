@@ -381,10 +381,10 @@ An AI-powered precision agriculture system providing crop health monitoring, yie
   <img src="https://github-profile-trophy.vercel.app/?username=anandd46&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
-###📈 Contribution Graph
-
-<p align="center"> <a href="https://github.com/anandd46"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hideborder=true&bgcolor=0D1117&color=00BFFF&line=0A66C2&point=FFFFFF&area=true" alt="Anand's GitHub Contribution Graph" width="100%" /> </a> </p>
-
+### 📈 Contribution Graph
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandd46&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=0A66C2&point=ffffff&area=true&area_color=00BFFF" alt="Contribution Graph"/>
+</p>
 <br/>
 
 ---
